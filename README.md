@@ -44,4 +44,4 @@
 [![](https://visitcount.itsvg.in/api?id=Priyank384&icon=8&color=5)](https://visitcount.itsvg.in)
 
  ## 💰 Buy Me a Coffee.
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]([https://paypal.me/priyank384?country.x=IN&locale.x=en_GB])
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/priyank384?country.x=IN&locale.x=en_GB)

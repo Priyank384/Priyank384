@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-<br><br>😄My name is Akash Suryavanshi. I am currently pursuing my BTech in Electronics Engineering from HBTU Kanpur. <br>I have had the opportunity to gain some great experience in software development.💬 I learned about full-stack development using MERN, ReactJs, NodeJs, and MongoDB tech stack. <br>I am also a Data Structures and Algorithms enthusiast. I have a strong passion for algorithmic problem-solving and have a firm grasp of data structures and algorithms. <br>🌱I have a 3-star rating, a Global best rank of 530 in the CodeChef Starter Contest, and secured a Global Rank of 71  in the CodeChef Long challenge, AIR of 5244 in round F Google Kickstart 2022. <br>🔭I have also interned as Backend Developer at LIVEASY, using SpringBoot, PSQL, AWS, to build APIs, etc.<br><br>I believe in giving back to the community that has helped me grow so much, that's why I have mentored more than 200 sophomores making them aware of different career prospects.
+<br><br>😄My name is Priyank Gupta. I am currently pursuing my BTech in Electronics Engineering from HBTU Kanpur. <br>I have had the opportunity to gain some great experience in software development.💬 I learned about full-stack development using MERN, ReactJs, NodeJs, and MongoDB tech stack. <br>I am also a Data Structures and Algorithms enthusiast. I have a strong passion for algorithmic problem-solving and have a firm grasp of data structures and algorithms. <br>🌱I have a 3-star rating, a Global best rank of 809 in the CodeChef Starter Contest, and secured a Global Rank of 121  in the CodeChef Long challenge, AIR of 5326 in round F Google Kickstart 2022. <br>🔭I have also interned as Backend Developer at LIVEASY, using SpringBoot, PSQL, AWS, to build APIs, etc.<br><br>I believe in giving back to the community that has helped me grow so much, that's why I have mentored more than 200 sophomores making them aware of different career prospects.
 
 
 ## 🌐 Socials:
@@ -41,10 +41,4 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=asv02&icon=8&color=5)](https://visitcount.itsvg.in)
-
-  ## 💰 Buy Me a Coffee.
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AkashSuryavanshiIN) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=Priyank384&icon=8&color=5)](https://visitcount.itsvg.in)

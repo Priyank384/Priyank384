@@ -40,8 +40,10 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Priyank384&icon=8&color=5)](https://visitcount.itsvg.in)
-
  ## 💰 Buy Me a Coffee.
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/priyank384?country.x=IN&locale.x=en_GB)
+
+  # Profile views counter
+
+![Visitor Count](https://profile-counter.glitch.me/{deepikaverm408}/count.svg)
+<a href="https://icons8.com/icon/40669/c++">
